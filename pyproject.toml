@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cancer-prediction-pp502"
-version = "0.1.0"
+version = "0.1.1"
 description = "A model to predict cancer"
 authors = ["PhilPalmer <32334279+PhilPalmer@users.noreply.github.com>"]
 license = "MIT"
